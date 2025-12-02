@@ -1,30 +1,18 @@
-/* styles.css */
 body {
     font-family: Arial, sans-serif;
     padding: 40px;
-    background-color: #f9f9f9;
-    margin: 0;
-}
-
-.container {
-    max-width: 700px;
-    margin: 0 auto;
 }
 
 h2 {
-    margin-bottom: 12px;
-    font-size: 22px;
-    color: #222;
+    margin-bottom: 15px;
 }
 
-ul#band {
+#band {
     list-style: none;
     padding: 0;
-    margin: 0;
 }
 
-ul#band li {
-    padding: 8px 10px;
+#band li {
+    padding: 6px 0;
     font-size: 18px;
-    border-bottom: 1px solid rgba(0,0,0,0.06);
 }
